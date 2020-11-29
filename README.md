@@ -10,7 +10,7 @@
 <br />
 
 Hi ,I'm [Jeyasri](https://www.linkedin.com/in/jeyasri-ayyadurai-7b571a1a9/) ,Currently ,<strong>I'm pursuing 👩‍💻 B.Tech in Information Technology</strong> from Sri Eshwar College of Engineering ,Coimbatore.
- <img align="right" alt="GIF" src="https://tenor.com/view/youre-welcome-always-here-for-you-gif-16736642" width="300" height="300" />
+ <img align="right" alt="GIF" src="https://github.com/jeyasri-001/jeyasri-001/blob/master/files/website.gif" width="300" height="300" />
 
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working on HTML5,CSS3;
