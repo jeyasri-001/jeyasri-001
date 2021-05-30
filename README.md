@@ -54,9 +54,4 @@ Hi ,I'm [Jeyasri](https://www.linkedin.com/in/jeyasri-ayyadurai-7b571a1a9/) ,Cur
 [![trophy](https://github-profile-trophy.vercel.app/?username=jeyasri-001&theme=monokai&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
 
-<h3>-📈 My GitHub Stats</h3>
-<a href="https://github.com/jeyasri-001">
-  <img  src="https://github-readme-stats.vercel.app/api?username=jeyasri-001&theme=jolly&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyasri-001&theme=jolly&layout=compact" />
 
-</a>
