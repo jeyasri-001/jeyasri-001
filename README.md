@@ -10,6 +10,8 @@
 <br />
 
 Hi ,I'm [Jeyasri](https://www.linkedin.com/in/jeyasri-ayyadurai-7b571a1a9/) ,Currently ,<strong>I'm pursuing 👩‍💻 B.Tech in Information Technology</strong> from Sri Eshwar College of Engineering ,Coimbatore.
+
+
  <img align="right" alt="GIF" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" />
 
 **Talking about Personal Stuffs:**
