@@ -47,9 +47,7 @@ Hi ,I'm [Jeyasri](https://www.linkedin.com/in/jeyasri-ayyadurai-7b571a1a9/) ,Cur
 
 
 <br/>
-- **📈 Github Streak**
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jeyasri-001&theme=tokyonight)  
+  
 
 - **📈 Github Trophies**
 
